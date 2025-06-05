@@ -45,17 +45,17 @@ cultura-ai/
 
 ## 🚀 Installation
 
-### 1. Clone the repository
+##
 
-```bash
-git clone https://github.com/anotherrealm/cultura-ai.git
+### 1. Clone the repositorygit clone https://github.com/yourusername/afrivoice-ai.git
+git clone https://github.com/yourusername/cultura-ai.git
 cd cultura-ai
 
 
 
 ---
 
-## 📝 Usage Examples
+ ## 📝 Usage Examples
 
 Translate a Phrase
 
