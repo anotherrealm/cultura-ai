@@ -47,8 +47,8 @@ cultura-ai/
 
 ##
 
-### 1. Clone the repositorygit clone https://github.com/yourusername/afrivoice-ai.git
-git clone https://github.com/yourusername/cultura-ai.git
+### 1. Clone the repositorygit clone https://github.com/anotherrealm/cultura-ai.git
+git clone https://github.com/anotherrealm/cultura-ai.git
 cd cultura-ai
 
 
