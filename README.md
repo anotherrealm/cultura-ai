@@ -61,7 +61,7 @@ Translate a Phrase
 
 Type: “Hello” → Select “Kikuyu”
 
-AfriVoice AI: “Wî mwega” (audio plays)
+Cultura AI: “Wî mwega” (audio plays)
 
 Listen to a Story
 
