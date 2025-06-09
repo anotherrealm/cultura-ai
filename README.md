@@ -2,6 +2,10 @@
 An AI-powered web platform that preserves and promotes African languages and culture through translation, voice narration, stories, and games.
 
 
+## 📁 Project Directory Structure
+
+
+```
 cultura-ai/
 │
 ├── README.md
@@ -25,6 +29,7 @@ cultura-ai/
 └── .github/
     └── workflows/
         └── ci.yml
+```
 
 
 ---
